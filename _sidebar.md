@@ -1,2 +1,2 @@
 - 快速开始
-  - [name、email](./src/0001.md)
+  - [name、email](/src/0001.md)
